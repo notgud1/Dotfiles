@@ -1,5 +1,5 @@
 # Dotfiles
-Rolling dotfiles for my linux arch rice
+slowly adding my dotfiles 
 
 ![screenshot](2024-10-15-003402_hyprshot.png)
 
